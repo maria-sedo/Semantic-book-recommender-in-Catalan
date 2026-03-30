@@ -26,7 +26,7 @@ Anthropic (2026). Claude Sonnet 4.6. https://claude.ai/new
 
 Barcelona Supercomputing Center (2026). AinaKit. https://langtech-bsc.gitbook.io/aina-kit
 
-Barcelona Supercomputing Center (s.d). Projecte Aina. ST-NLI-ca_paraphrase-multilingual-mpnet-base. Hugging Face. https://huggingface.co/projecte-aina/ST-NLI-ca_paraphrase-multilingual-mpnetbase
+Barcelona Supercomputing Center (s.d). Projecte Aina. ST-NLI-ca_paraphrase-multilingual-mpnet-base. Hugging Face. https://huggingface.co/projecte-aina/ST-NLI-ca_paraphrase-multilingual-mpnet-base
 
 Diaz, G. (2020). Stopwords ISO. GitHub. https://github.com/stopwords-iso/stopwords-iso?tab=readme-ovfile
 
