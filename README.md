@@ -30,8 +30,7 @@ Barcelona Supercomputing Center (s.d). Projecte Aina. ST-NLI-ca_paraphrase-multi
 
 Diaz, G. (2020). Stopwords ISO. GitHub. https://github.com/stopwords-iso/stopwords-iso?tab=readme-ovfile
 
-Explosion (2026). Catalan. Ca_core_news_sm. https://spacy-io.translate.goog/models/ca?_x_tr_sl=en&_x_
-tr_tl=ca&_x_tr_hl=ca&_x_tr_pto=sc&_x_tr_hist=true
+Explosion (2026). Catalan. Ca_core_news_sm. https://spacy.io/models/ca
 
 FreeCodeCamp (2025, January 27). LLM Course. Build a Semantic Book Recommender (Python, OpenAI, LangChain, Gradio) [video]. Youtube. https://www.youtube.com/watch?v=Q7mS1VHm3Yw&t=707s
 
